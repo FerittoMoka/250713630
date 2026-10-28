@@ -1,0 +1,23 @@
+body {
+    color: #e5d96c;
+    margin: 0;
+    padding: 20px;
+}
+
+
+h1 {
+    text-align: center;
+    color: #1f4e79;
+    font-size: 28px;
+    margin-bottom: 12px;
+}
+
+table {
+    background-color: #b2d23d;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #9155da;
+    padding: 5px 7px;
+}
